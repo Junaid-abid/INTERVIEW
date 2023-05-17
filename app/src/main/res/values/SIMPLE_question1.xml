@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="simple_question">
+    <item>What is mobile computing?</item>
+    <item>What are some of the benefits of mobile computing?</item>
+    <item>What is the difference between mobile computing and traditional computing?</item>
+    <item>What are some examples of mobile operating systems?</item>
+    <item>What is the difference between a smartphone and a feature phone?</item>
+    <item>What is mobile app development?</item>
+    <item>What is mobile device management?</item>
+    <item>What is a mobile hotspot?</item>
+    <item>What is mobile payment?</item>
+    <item>What is mobile security?</item>
+    </string-array>
+</resources>
